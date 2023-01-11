@@ -1,5 +1,5 @@
 # CAD-Portfolio
 
-Included are some CREO and SolidWorks .prt and .asm files and images of finished 3D prints produced from original CAD designs. All models designed by Lauren Kiska.
+Included are some CREO and SolidWorks .prt,.asm, and .drw files as well as images of finished 3D prints produced from original CAD (CREO, SolidWorks, AutoCAD) designs. All models designed by Lauren Kiska.
 
 Note that the white text/details in book.jpg are raised extrudes made in CREO Parametric.
